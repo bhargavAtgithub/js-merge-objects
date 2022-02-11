@@ -1,6 +1,8 @@
 <div id="top"></div>
-[![MIT License][license-shield]][license-url]
-
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT" alt="License">
+        <img src="https://img.shields.io/badge/license-MIT-green" /></a>
+</p>
 <br />
 
 # Objects Merge
@@ -69,4 +71,4 @@ let newMergedObject = merge(DefaultTheme, NewTheme);
 Distributed under the [MIT License](https://opensource.org/licenses/MIT)
 
 [license-shield]: https://img.shields.io/badge/license-MIT-green
-[license-url]: https://opensource.org/licenses/MIT
+[license-url]: 
